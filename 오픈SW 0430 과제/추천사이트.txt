@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		추천사이트
+	</title>
+</head>
+<body>
+	<p>1. 다나와<br>
+	다나와라는 사이트는 이름처럼 국내 기업들이 유통시키고 있는 거의 모든 부품들의 가격비교를 한눈에 알아볼 수 있기 때문이다.</p>
+	<a href="http://shop.danawa.com/main/">다나와 - http://shop.danawa.com/main/</a>
+	
+	<p>2. cordup<br>
+	코드업이라는 사이트는 오라인 저지 사이트로 C언어가 설명의 주 내용이고 초중고등학교를 주 사용자로 잡고 있기 때문에 C언어를 처음 배우기에 매우 적합한 사이트이다.</p>
+	<a href="http://codeup.kr/">cordup(코드업) - http://codeup.kr/</a>
+	
+	<p>3. KISS<br>
+	각종 논문과 강의자료를 확인할 수 있는 무료 사이트로 해외의 학술자료또한 열람가능하여 유용하고 편리한 사이트이다.</p>
+	<a href="http://kiss.kstudy.com/">KISS - http://kiss.kstudy.com/</a>
+
+	<p>4. KeepVid<br>
+	비디오 및 오디오 변환을 바로 해주는 사이트로 무료이며 이외에 유튜브 영상을 다운받기 위해 유용한 사이트이다.</p>
+	<a href="https://keepvid.com/">KeepVid - https://keepvid.com/</a>
+
+	<p>5. KIPRIS(키프리스)<br>
+	키프리스는 특허 정보 검색 서비스를 제공하여주는 사이트로 특허청이 운영하고 있다. 자신의 아이디어나 발명한 것이 이미 나온 내용인지 궁금할 때 혹은 특허출원을 받으려 할 때 필요하고 유용한 사이트이다.</p>
+	<a href="http://www.kipris.or.kr/khome/main.jsp">KIPRIS(키프리스) - http://www.kipris.or.kr/khome/main.jsp</a>
+</body>
+</html>

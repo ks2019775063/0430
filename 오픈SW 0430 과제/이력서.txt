@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		이력서
+	</title>
+</head>
+<style>
+	table
+		{width: 50%;}
+	table, th, td
+		{border: 1px solid #bcbcbc;}
+</style>
+<body>
+	<h1 align="left">이력서</h1>
+	<table>
+		<tr>
+			<td colspan="5">1. 기초자료</td>
+		</tr>
+		<tr>
+			<th rowspan="6" align="center"><img src="이력서사진.jpg" alt="이력서사진" width="100"></th>
+			<td align="center">성 명	</td>
+			<td colspan="3" align="left">(한글) 차기벽 (영문) CHA GIBYEOK</td>
+		</tr>
+		<tr>
+			<td align="center">주민등록번호</td>
+			<td>000104-3******</td>
+			<td align="center">생년월일</td>
+			<td>(양)2000.01.04</td>
+		</tr>
+		<tr>
+			<td align="center">E-mail</td>
+			<td colspan="3">ckrlqur@icloud.com</td>
+		</tr>
+		<tr>
+			<td align="center">전화번호</td>
+			<td>X</td>
+			<td align="center">휴대폰</td>
+			<td>010 8531 8650</td>
+		</tr>
+		<tr>
+			<td align="center">우편번호</td>
+			<td>51013</td>
+			<td align="center">팩스번호</td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td rowspan="2" align="center" valign="center">주소</td>
+			<td rowspan="2" colspan="3" valign="center">경상남도 김해시 율하1로7<br>210동 1003호</td>
+		</tr>
+		<tr>
+			<td align="center">↑사진↑</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td colspan="4">2. 병역 및 보훈사항</td>
+		</tr>
+		<tr>
+			<td align="center">군별</td>
+			<td>육군</td>
+			<td align="center">병역</td>
+			<td>군필</td>
+		</tr>
+		<tr>
+			<td align="center">군별</td>
+			<td colspan="3">병장</td>
+		</tr>
+		<tr>
+			<td align="center">복무기간</td>
+			<td colspan="3">2020.02 ~ 2021.08</td>
+		</tr>
+		<tr>
+			<td align="center">보훈대상</td>
+			<td colspan="3">X</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td colspan="6">3. 신상자료</td>
+		</tr>
+		<tr>
+			<td align="center">최종학력</td>
+			<td>대학교 졸업</td>
+			<td align="center">전공</td>
+			<td>소프트웨어</td>
+			<td align="center">성적</td>
+			<td>?</td>
+		</tr>
+		<tr>
+			<td align="center">신장</td>
+			<td>179cm</td>
+			<td align="center">체중</td>
+			<td>82kg</td>
+			<td align="center".>혈액형</td>
+			<td>A형</td>
+		</tr>
+		<tr>
+			<td align="center">시력</td>
+			<td>좌(1.5)/우(0.3)</td>
+			<td align="center">결혼여부</td>
+			<td>미혼</td>
+			<td align="center">종교</td>
+			<td>무교</td>
+		</tr>
+		<tr>
+			<td align="center">취미</td>
+			<td colspan="2">글쓰기, 아이디어 구상</td>
+			<td align="center">특기</td>
+			<td colspan="2">프로그램 짜기 및 알고리즘 문제 풀기</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td colspan="7">4. 가족사항</td>
+		</tr>
+		<tr align="center">
+			<td>연번</td>
+			<td>관계</td>
+			<td>성명</td>
+			<td>연령</td>
+			<td>최종학력</td>
+			<td>직업</td>
+			<td>동거여부</td>
+		</tr>
+		<tr align="center">
+			<td>1</td>
+			<td>부</td>
+			<td>차상봉</td>
+			<td>52</td>
+			<td>고등학교 졸업</td>
+			<td>도시가스</td>
+			<td>X</td>
+		</tr>
+		<tr align="center">
+			<td>2</td>
+			<td>모</td>
+			<td>김태영</td>
+			<td>50</td>
+			<td>고등학교 졸업</td>
+			<td>무직</td>
+			<td>O</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td colspan="3">5. 힉력사항</td>
+		</tr>
+		<tr align="center">
+			<td>년/월</td>
+			<td>학 교 명</td>
+			<td>학 과</td>
+		</tr>
+		<tr align="center">
+			<td>2026/03</td>
+			<td>경성대학교</td>
+			<td>소프트웨어</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td colspan="5">6. 개인 능력</td>
+		</tr>
+		<tr>
+			<td rowspan="4">어학</td>
+			<td>TOEIC</td>
+			<td colspan="3">790</td>
+		</tr>
+		<tr>
+			<td>TOEFL</td>
+			<td colspan="3">90</td>
+		</tr>
+		<tr>
+			<td>일본어</td>
+			<td colspan="3">X</td>
+		</tr>
+		<tr>
+			<td>기타</td>
+			<td colspan="3">X</td>
+		</tr>
+		<tr>
+			<td>컴퓨터</td>
+			<td colspan="4">정보처리기사, 리눅스마스터2급, 네트워크 관리사 등등</td>
+		</tr>
+		<tr>
+			<td>기타</td>
+			<td colspan="4">X</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td align="right">위의 사항이 사실과 다름 없음을 확인함<br><br>2019.03.17 작성자: 차기벽</td>
+		</tr>
+	</table>
+	<a href="http://blog.naver.com/PostView.nhn?blogId=cclaeo0611&logNo=40159977910">출처 : http://blog.naver.com/PostView.nhn?blogId=cclaeo0611&logNo=40159977910</a>
+</body>
+</html>
